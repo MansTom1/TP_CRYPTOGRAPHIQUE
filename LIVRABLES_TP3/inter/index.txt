@@ -1,0 +1,4 @@
+V	270127225542Z		2000	unknown	/CN=www.tp.local
+R	270127232709Z	261030001456Z,keyCompromise	2001	unknown	/CN=alice@tp.local
+V	270128000410Z		2002	unknown	/CN=www.example.com
+V	270128185329Z		2003	unknown	/C=BF/O=Universite TP/CN=www.tp.local
